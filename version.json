@@ -1,0 +1,8 @@
+{
+  "version": "1.0.3",
+  "build_number": 4,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.3/ClinicHub-CRM-v1.0.3-arm64.apk",
+  "sha256": "016b7a7f4b5b8c779726104cb1de7d10eb8ab96cddd095b81437348ae7b06eb5",
+  "release_notes_id": "Menu Pipeline & Kontak terpisah, filter tanggal Inbox & Kontak, indikator sisa kuota AI & storage, perapihan posisi CS di Inbox, dan pembaruan aplikasi otomatis.",
+  "release_notes_en": "Separate Pipeline & Contacts tabs, Inbox & Contacts date filters, remaining AI & storage quota indicators, aligned CS badges, and live OTA updates."
+}
