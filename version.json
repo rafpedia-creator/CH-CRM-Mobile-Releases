@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "build_number": 5,
-  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.4/ClinicHub-CRM-v1.0.4-arm64.apk",
-  "sha256": "86fe9b5fa2bab37ff57ae298f0291ed866c0925d0ed4876578a8e5f43eea6f29",
-  "release_notes_id": "Pengerasan keamanan penuh: enkripsi & obfuscation kode R8/Dart, proteksi sertifikat sistem anti-sadap, wajib verifikasi SHA-256 & domain resmi, deteksi perangkat root, serta tirai privasi otomatis saat berpindah aplikasi (screenshot tetap aktif).",
-  "release_notes_en": "Full security hardening: R8/Dart code obfuscation, system-CA anti-tamper pinning, mandatory SHA-256 & domain allowlist verification, root detection, and automatic app-switcher privacy mask (screenshots remain enabled)."
+  "version": "1.0.5",
+  "build_number": 6,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.5/ClinicHub-CRM-v1.0.5-arm64.apk",
+  "sha256": "f69969ca22ac526a422164308d1d6042221f918fa98b0eb2a5d9c56c7ac4237e",
+  "release_notes_id": "Tampilan adaptif otomatis untuk ponsel & tablet: sidebar navigasi kiri di tablet, Inbox split-view 2-3 kolom, papan Pipeline Kanban multi-kolom sejajar, direktori Kontak split-view, serta grid Jadwal & Analitik proporsional.",
+  "release_notes_en": "Adaptive phone & tablet UI/UX: left navigation sidebar on tablets, 2-3 pane Inbox split-view, side-by-side multi-column Pipeline Kanban board, Contacts split-view, and proportional Schedule & Analytics grids."
 }
