@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "build_number": 9,
-  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.8/ClinicHub-CRM-v1.0.8-arm64.apk",
-  "sha256": "ca25189ec92e5da567992bf3bcc2e22ea0cc6124c092825875839df5dc73c257",
-  "release_notes_id": "Navigasi pintar saat notifikasi diketuk (Opsi B: langsung mengarah ke Follow-Up FU 1 dan ruang percakapan pasien terkait), tab khusus Follow-Up (FU 1, FU 2, FU 3) di Inbox, serta kartu aksi Saran Follow-Up AI (Kirim Sekarang, Sunting, Lewati) langsung di ruang chat.",
-  "release_notes_en": "Smart notification deep-linking (Option B: opens Follow-Up FU 1 queue and the target patient conversation directly), dedicated Follow-Up filter tab (FU 1, FU 2, FU 3) in Inbox, and in-thread AI Follow-Up action card (Send Now, Edit, Skip)."
+  "version": "1.0.9",
+  "build_number": 10,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.9/ClinicHub-CRM-v1.0.9-arm64.apk",
+  "sha256": "bd6ab290e52c25d83369be585cbe3ddc95978c6d3c978b350ed603907ee765ab",
+  "release_notes_id": "Simpan otomatis email & kata sandi terenkripsi dengan dukungan Autofill sistem, masuk cepat 1-ketuk menggunakan Sidik Jari Android (Passkey Biometrik), serta ketahanan sesi anti-logout yang hanya kedaluwarsa otomatis apabila aplikasi tidak digunakan selama 3x24 jam (72 jam).",
+  "release_notes_en": "Encrypted auto-save email & password with OS Autofill support, 1-tap sign-in using Android Fingerprint (Biometric Passkey), and anti-premature-logout session resilience that only expires after 3x24 hours (72 hours) of inactivity."
 }
