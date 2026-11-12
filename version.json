@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "build_number": 11,
-  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.10/ClinicHub-CRM-v1.0.10-arm64.apk",
-  "sha256": "8edd447f83652e205b3df0b9235be8aaabbd3b49e8a9e8ee48292a84ed8e47f1",
-  "release_notes_id": "Pengerasan keamanan kriptografi biometrik AndroidKeyStore (AES-GCM), isolasi kredensial tanpa prefill sandi di layar login, pengawas koneksi SSE anti-gantung (watchdog 65 detik + silent re-auth otomatis saat 401), serta pemecahan modul Pipeline & Kontak agar navigasi lebih responsif.",
-  "release_notes_en": "Hardware-backed AndroidKeyStore (AES-GCM) biometric cryptographic binding, credential isolation without plaintext password prefill on login, resilient SSE watchdog (65s timeout + automatic silent re-auth on 401), and modularized Pipeline & Contacts screens for smoother responsiveness."
+  "version": "1.0.11",
+  "build_number": 12,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.11/ClinicHub-CRM-v1.0.11-arm64.apk",
+  "sha256": "da4eb7cf4c45806c77594b896f33dec68e95cfc144efb5299a4cb6a314c860e6",
+  "release_notes_id": "Perbaikan privasi cabang dan keamanan login. Login sidik jari kini membuka kredensial terenkripsi yang terikat Android Keystore. Setelah pembaruan, masuk sekali dengan email dan kata sandi untuk mengaktifkan kembali sidik jari.",
+  "release_notes_en": "Branch privacy and login security fixes. Fingerprint login now decrypts credentials bound to Android Keystore. After updating, sign in once with email and password to enable fingerprint login again."
 }
