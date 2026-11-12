@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
-  "build_number": 13,
-  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.12/ClinicHub-CRM-v1.0.12-arm64.apk",
-  "sha256": "d004239c2b41607827d1993825f662b0351edb35d468abad0b45f81bd804fbb4",
-  "release_notes_id": "Kalender bulan pada Jadwal dengan penanda janji temu. Lihat tanggal berjanji sekilas, navigasi bulan, dan ketuk tanggal untuk daftar janji.",
-  "release_notes_en": "Month calendar in Schedule with appointment markers. See booked dates at a glance, navigate months, and tap a date for its appointments."
+  "version": "1.0.13",
+  "build_number": 14,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.13/ClinicHub-CRM-v1.0.13-arm64.apk",
+  "sha256": "0e2c7d70457190fcea17338afac0654d5fbb39b0c9c3e575d93d3e0c8f824db8",
+  "release_notes_id": "Telemetri perangkat anonim untuk perencanaan UI/UX. Data karakteristik perangkat (tanpa data pribadi) membantu kami menyempurnakan tampilan.",
+  "release_notes_en": "Anonymous device telemetry for UI/UX planning. Device characteristics (no personal data) help us improve the experience."
 }
