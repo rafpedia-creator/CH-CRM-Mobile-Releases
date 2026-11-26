@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "build_number": 15,
-  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.14/ClinicHub-CRM-v1.0.14-arm64.apk",
-  "sha256": "6ef7c1c13a7ab561e6e4647457d100c4d78aa8b26b616a1acdfba0149ba94e80",
-  "release_notes_id": "Perbaikan Inbox WhatsApp: tombol Setujui Izin kini langsung tersedia di dalam sheet pilih template untuk membuka kunci template kategori Marketing tanpa menutup layar.",
-  "release_notes_en": "WhatsApp Inbox fix: Grant Consent action is now available directly inside the template sheet to unlock Marketing templates in one tap."
+  "version": "1.0.15",
+  "build_number": 16,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.15/ClinicHub-CRM-v1.0.15-arm64.apk",
+  "sha256": "1119e07faf5f28b72d103658b001106778f9159210f79ccf74827262decc77cc",
+  "release_notes_id": "Pembaruan Inbox & Keamanan v1.0.15: ketuk gambar chat untuk pratinjau layar penuh (pinch-to-zoom & ketuk ganda), perisai tautan/berkas berbahaya (blokir judol, phishing, & APK), folder Trash berproteksi pasien existing, serta fitur Blokir Nomor.",
+  "release_notes_en": "Inbox & Security update v1.0.15: tap chat images for fullscreen zoom preview (pinch & double-tap), link and file security shield (blocks gambling spam, phishing, and APK files), Trash folder with existing-patient protection, and Block Number action."
 }
