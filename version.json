@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
-  "build_number": 16,
-  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.15/ClinicHub-CRM-v1.0.15-arm64.apk",
-  "sha256": "1119e07faf5f28b72d103658b001106778f9159210f79ccf74827262decc77cc",
-  "release_notes_id": "Pembaruan Inbox & Keamanan v1.0.15: ketuk gambar chat untuk pratinjau layar penuh (pinch-to-zoom & ketuk ganda), perisai tautan/berkas berbahaya (blokir judol, phishing, & APK), folder Trash berproteksi pasien existing, serta fitur Blokir Nomor.",
-  "release_notes_en": "Inbox & Security update v1.0.15: tap chat images for fullscreen zoom preview (pinch & double-tap), link and file security shield (blocks gambling spam, phishing, and APK files), Trash folder with existing-patient protection, and Block Number action."
+  "version": "1.0.16",
+  "build_number": 17,
+  "apk_url": "https://github.com/rafpedia-creator/CH-CRM-Mobile-Releases/releases/download/v1.0.16/ClinicHub-CRM-v1.0.16-arm64.apk",
+  "sha256": "d58d49eb941037fddefdf332145cb92cc864d8207c4783d07ead73d8aa13b286",
+  "release_notes_id": "Pembaruan Inbox v1.0.16: pemutar pesan suara langsung di ruang chat (Putar/Jeda, geser posisi waktu, dan kompatibilitas lintas format suara WhatsApp).",
+  "release_notes_en": "Inbox update v1.0.16: in-chat voice message player (Play/Pause, seek slider, and cross-device WhatsApp voice note compatibility)."
 }
